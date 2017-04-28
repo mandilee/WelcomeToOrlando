@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="attr_rest_red_lobster">Red Lobster</string>
+    <string name="attr_rest_black_angus">Black Angus</string>
+    <string name="attr_park_animal_kingdom">Animal Kingdom</string>
+    <string name="attr_park_busch_gardens">Busch Gardens</string>
+    <string name="attr_park_seaworld">Sea World</string>
+    <string name="attr_shop_florida_mall">Florida Mall</string>
+    <string name="attr_exp_boggy_creek">Boggy Creek</string>
+    <string name="attr_exp_ripleys">Believe It Or Not </string>
+    <string name="attr_rest_dunkin_donuts">Dunkin Donuts</string>
+    <string name="attr_shop_zales">Zales</string>
+    <string name="attr_shop_publix">Publix</string>
+</resources>

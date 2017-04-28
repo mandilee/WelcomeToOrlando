@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Welcome To Orlando</string>
+
+    <string name="item_experiences">Experiences</string>
+    <string name="item_restaurants">Restaurants</string>
+    <string name="item_snacks">Snacks</string>
+    <string name="item_shopping">Shopping</string>
+    <string name="item_themepark">Theme Parks</string>
+
+    <string name="item_experiences_short">See</string>
+    <string name="item_restaurants_short">Eat</string>
+    <string name="item_shopping_short">Shop</string>
+    <string name="item_themepark_short">Play</string>
+
+    <string name="attr_rest_red_lobster_description">A fantastic seafood restaurant</string>
+    <string name="attr_rest_black_angus_description">A fantastic steak restaurant</string>
+    <string name="attr_park_animal_kingdom_description">A fun animal-themed park for adults and children alike</string>
+    <string name="attr_park_busch_gardens_description">Animals and rides galore in this spectacular park</string>
+    <string name="attr_park_seaworld_description">Experience the rush that is Manta; Seek out the mermainds in Journey To Atlantis; Meet Shamu, Clyde and Seymore, Winston and all their friends</string>
+    <string name="attr_shop_zales_description">A spectacular jewelry shop, specialising in diamonds. Treat your loved one, or yourself</string>
+    <string name="attr_shop_publix_description">The standard "go-to" supermarket with everything you probably need</string>
+    <string name="attr_shop_florida_mall_description">With over 100 shops, there\'s bound to be something for everyone here!</string>
+    <string name="attr_exp_boggy_creek_description">See gators in their natural environment from the safety of an airboat!</string>
+    <string name="attr_exp_ripleys_description">Mind bending puzzles and facts that you just won\'t believe!!</string>
+    <string name="attr_rest_dunkin_donuts_description">The best donuts in the world! (So says me!)</string>
+
+</resources>
