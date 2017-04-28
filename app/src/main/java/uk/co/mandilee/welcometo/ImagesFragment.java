@@ -9,9 +9,9 @@ import android.widget.ListView;
 
 import java.util.ArrayList;
 
-public class ExperiencesFragment extends Fragment {
+public class ImagesFragment extends Fragment {
 
-    public ExperiencesFragment() {
+    public ImagesFragment() {
         // Required empty public constructor
     }
 

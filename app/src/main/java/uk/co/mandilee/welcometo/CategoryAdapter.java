@@ -23,7 +23,7 @@ public class CategoryAdapter extends FragmentPagerAdapter {
         } else if (position == 2) {
             return new ShoppingFragment();
         } else {
-            return new ExperiencesFragment();
+            return new ImagesFragment();
         }
     }
 
